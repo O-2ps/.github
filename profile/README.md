@@ -2,7 +2,7 @@
 
 > 퍼스널 컬러, 피부 타입을 아직도 모르고 계세요? 1분 만에 확인해 보세요!
 
----
+
 
 ### About
 
@@ -11,7 +11,7 @@ Oops!는 오프라인 매장을 직접 방문해야만 받을 수 있었던 퍼�
 또한 맞춤형 화장품에 대한 소비자 수요도 꾸준히 증가하고 있습니다. 실제 연구 결과에 따르면, 약 1,084명의 응답자 중 57.2%가 맞춤형 화장품 구매 의향이 있는 것으로 나타났습니다.
 이러한 수요를 바탕으로 Oops!는 개인의 피부 특성과 퍼스널 컬러에 맞는 화장품 선택을 지원하여 더욱 만족도 높은 뷰티 경험을 제공하고자 합니다.
 
----
+
 
 ### Client
 
@@ -28,7 +28,7 @@ Oops!는 오프라인 매장을 직접 방문해야만 받을 수 있었던 퍼�
 <img width="160" alt="image" src="https://github.com/user-attachments/assets/8ab1f547-53a0-4ca2-8b37-27b3bf55a00f" />
 <img width="160" alt="image" src="https://github.com/user-attachments/assets/c136510a-b09f-4c2c-98db-d622ef5661a6" />
 
----
+
 
 ### Tech Stack
 

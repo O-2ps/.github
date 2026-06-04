@@ -31,6 +31,11 @@ Oops!는 오프라인 매장을 직접 방문해야만 받을 수 있었던 퍼�
 
 
 
+### Download
+> https://github.com/O-2ps/Oops_MFE/releases/tag/v1.0.0
+
+
+
 ### Tech Stack
 
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)

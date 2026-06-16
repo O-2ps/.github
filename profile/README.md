@@ -52,7 +52,7 @@
 <div align="center">
 
 ### [⬇️ v1.0.0 다운로드](https://github.com/O-2ps/Oops_MFE/releases/tag/v1.0.0)
-### [⬇️ 원스토어로 다운로드]https://m.onestore.co.kr/v2/ko-kr/app/0001006347
+### 원스토어로 다운로드 👉 https://m.onestore.co.kr/v2/ko-kr/app/0001006347
 
 </div>
 

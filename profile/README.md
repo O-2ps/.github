@@ -41,11 +41,8 @@
 
 ## 📥 Download
 
-<div align="center">
-
 ### 원스토어로 다운로드 👉 https://m.onestore.co.kr/v2/ko-kr/app/0001006347
 
-</div>
 
 <br/>
 

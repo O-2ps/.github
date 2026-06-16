@@ -1,15 +1,7 @@
-<div align="center">
-
 # 🎀 Oops!
 
 ### 퍼스널 컬러, 피부 타입을 아직도 모르고 계세요?
 ### 📸 사진 한 장으로 1분 만에 확인해 보세요!
-
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-</div>
 
 <br/>
 
@@ -51,7 +43,6 @@
 
 <div align="center">
 
-### [⬇️ v1.0.0 다운로드](https://github.com/O-2ps/Oops_MFE/releases/tag/v1.0.0)
 ### 원스토어로 다운로드 👉 https://m.onestore.co.kr/v2/ko-kr/app/0001006347
 
 </div>
@@ -67,8 +58,4 @@
 
 <br/>
 
-<div align="center">
-
 Made with 💖 by **O-2ps**
-
-</div>
